@@ -1,9 +1,9 @@
 import './App.css';
 import React from 'react';
-import { TodoItemCreator } from './components/TodoItemCreator';
+import { TodoMain } from './components/TodoMain';
 
 function App() {
-  return <TodoItemCreator />;
+  return <TodoMain />;
 }
 
 export default App;
